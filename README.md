@@ -18,6 +18,7 @@ Demographic Info Panel
 
 This Panel shows the demographics information of the chosen test subject
 Displays each key-value pair from the metadata JSON object
+![demo-info](https://github.com/sughra-bit/belly-button-challenge/assets/135158002/2e7d7d6d-c48e-4f3f-8883-3eb25c9bde9b)
 
 
 Horizontal Bar Graph
@@ -45,6 +46,7 @@ The colors of the bubbles are based on otu_ids, and the hovertext are the otu_la
 
 
 Credits
+
 Plotly
 D3 Library
 North Carolina State University - The Public Science Lab
